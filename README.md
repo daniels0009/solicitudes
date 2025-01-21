@@ -147,5 +147,3 @@ El código fuente completo del proyecto se encuentra en el siguiente repositorio
 
 ---
 
-## Documentación adicional
-Para más detalles sobre los endpoints del API, consulta el archivo `API_Documentation.md` o el archivo `Postman Collection` incluido en el repositorio.
