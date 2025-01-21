@@ -108,7 +108,7 @@ Se realizaron pruebas con Postman para verificar el correcto funcionamiento de t
 
 ### 10. Código subido a GitHub
 El código fuente completo del proyecto se encuentra en el siguiente repositorio:
-[GitHub: solicitudes-api](https://github.com/daniels0009/solicitudes-api)
+[GitHub: solicitudes-api](https://github.com/daniels0009/solicitudes)
 
 ---
 
