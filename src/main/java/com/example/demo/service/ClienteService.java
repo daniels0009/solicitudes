@@ -17,7 +17,6 @@ public class ClienteService {
     public List<Cliente> obtenerTodosLosClientes() {
         return clienteRepository.findAll();
     }
-
     public Cliente obtenerClientePorId(Long id) {
         return clienteRepository.findById(id).orElseThrow(() -> new NotFoundException("Cliente no encontrado"));
     }
