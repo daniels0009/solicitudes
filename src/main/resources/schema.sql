@@ -1,0 +1,7 @@
+CREATE TABLE T01_SOLICITUD (
+    id SERIAL PRIMARY KEY,
+    estado INTEGER NOT NULL,
+    fecha_ingreso DATE NOT NULL,
+    monto NUMERIC(15, 2) NOT NULL CHECK (monto >= 1000000),
+    id_cliente INTEGER NOT NULL
+);
